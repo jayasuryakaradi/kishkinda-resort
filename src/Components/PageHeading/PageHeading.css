@@ -1,0 +1,22 @@
+.page-heading-container {
+  height: 200px;
+  margin-top: 50px;
+  position: relative;
+  background: rgba(0, 0, 0);
+  animation: fadeIn 1s;
+}
+.page-heading-container img {
+  height: 200px;
+  width:100%;
+  object-fit: cover;
+  opacity: 0.5;
+}
+.page-heading-container h2 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  animation: moveUP 1s
+}
+

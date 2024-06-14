@@ -1,0 +1,33 @@
+.facilities-container {
+  margin-top: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  gap:50px;
+  align-items: center;
+  justify-content: center;
+  margin-left:50px ;
+  margin-right:50px ;
+  margin-bottom:50px ;
+  background-image: linear-gradient(rgb(223, 222, 222), white);
+  padding: 50px;
+  border-radius: 50px 50px 0px 0px;
+
+}
+.facilities-card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 50px;
+    background: rgb(200, 227, 243);
+    width: 170px;
+    height: 150px;
+    text-align: center;
+    border-radius: 10px;
+    border:1px solid rgb(166, 165, 165)
+}
+.facilities-card .facilities-icon{
+    font-size: 40px;
+    color: #0d21a1;
+}
+

@@ -1,0 +1,38 @@
+.attraction-container {
+  position: relative;
+  text-align: center;
+  margin: 10px auto;
+  background-image: linear-gradient(rgb(223, 222, 222), white);
+  padding: 20px 23px;
+  border-radius: 50px 50px 0px 0px;
+  overflow-x: hidden;
+}
+
+.title-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 100px;
+}
+.btn {
+  font-size: 30px;
+  cursor: pointer;
+}
+.attraction-list-container {
+  display: flex;
+  transition: 0.5s;
+  width: 100%;
+  gap: 10px;
+}
+@media (max-width: 800px) {
+  .title-container {
+    gap: 10px;
+  }
+  .title-container h2 {
+    font-size: 18px;
+  }
+  .btn {
+    margin: 20px;
+    font-size: 20px;
+  }
+}

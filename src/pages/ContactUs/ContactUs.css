@@ -1,0 +1,24 @@
+.contact-us-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:50px;
+    margin: 50px 100px;
+    background-image: linear-gradient(rgb(223, 222, 222), white);
+    padding: 20px 23px;
+    border-radius: 50px 50px 0px 0px;
+    flex-wrap: wrap;
+}
+.side-contact-us-card{
+    background: rgb(200, 227, 243);
+    margin: 20px;
+    padding: 20px 25px;
+    border-radius: 20px;
+}
+.map{
+    border:0;
+    margin: 0px 50px;
+    width: 93%;
+    display: flex;
+    margin-bottom: 30px;
+}

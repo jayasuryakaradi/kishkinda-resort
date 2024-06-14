@@ -1,0 +1,18 @@
+.our-rooms-container {
+  margin-top: 20px;
+  width: 100%;
+  text-align: center;
+  background-image: linear-gradient(rgb(223, 222, 222), white);
+  padding: 20px 0;
+  border-radius: 50px 50px 0px 0px;
+}
+.our-rooms-cards-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+.our-rooms-container h1{
+    margin-bottom: 20px;
+}

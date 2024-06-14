@@ -1,0 +1,51 @@
+.title-with-description {
+  text-align: center;
+  margin: 50px 100px;
+}
+.title-with-description h2 {
+  margin: 20px;
+}
+.title-with-description p {
+  margin: 10px 0;
+}
+.about-container {
+  margin: 10px;
+}
+.about-details-section {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin: 40px;
+
+  background-image: linear-gradient(90deg, rgb(223, 222, 222), white);
+  border-radius: 20px;
+}
+
+.about-details-section div {
+  padding: 20px;
+}
+.about-details-section h2 {
+  margin: 15px;
+}
+.about-details-section img {
+  width: 700px;
+  border-radius: 0 50% 50% 0;
+  margin: 30px;
+}
+.bottom-details-container {
+  display: flex;
+  align-self: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin-bottom: 40px;
+}
+.bottom-details-card {
+  /* background-color: antiquewhite; */
+  background-image: linear-gradient(rgb(223, 222, 222), white);
+
+  width: 350px;
+  padding: 20px;
+  border-radius: 10px;
+}

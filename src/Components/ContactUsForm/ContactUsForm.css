@@ -1,0 +1,31 @@
+.contact-us-form-container{
+    display: flex;
+    flex-direction: column;
+    gap:20px
+
+}
+.contact-us-form-container input{
+    padding: 15px;
+    width: 550px;
+    border-radius: 5px;
+    border:1px solid rgb(219, 216, 216);
+    font-size: 14px;
+    
+
+}
+.contact-us-form-container textarea{
+    padding: 10px;
+    border-radius: 5px;
+    border:1px solid rgb(219, 216, 216);
+    font-size: 14px;
+
+}
+.contact-us-form-container button{
+    padding: 10px;
+    border-radius: 5px;
+    border:1px solid rgb(219, 216, 216);
+    background-color:  #0d21a1;
+    color:white;
+    font-size: 16px;
+
+}

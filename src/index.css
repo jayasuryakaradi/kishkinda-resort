@@ -31,7 +31,7 @@
 }
 @keyframes moveUP {
   from {
-    top: 40%;
+    top: 10%;
   }
   to {
     top: 50%;

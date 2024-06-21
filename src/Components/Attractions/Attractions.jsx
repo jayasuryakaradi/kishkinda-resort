@@ -33,8 +33,7 @@ const Attractions = () => {
     if (tx < 0) {
       tx += 50;
     }
-    console.log(tx);
-
+    
     slider.current.style.transform = `translateX(${tx}%)`;
   };
 

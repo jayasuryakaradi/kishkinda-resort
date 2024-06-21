@@ -1,0 +1,34 @@
+{
+    "announcement": [
+        {
+            "id": "1",
+            "title": "Festival / Holidays / Peak Season Rates",
+            "description": "Rates Not Valid to below dates: Rs. 2000/- Per Room / Per Night Additional charges will apply on Net Rates Aug -14,15,16, 17 // Oct – 1, 2, 9, 10, 11, 12, 13, 30, 31 // Nov – 1, 2, 3, Rs. 3000/- from 21 to 31 Dec // Rs. 2000/- Jan 1,2,3,4,12, 13, 14, 15, 25, 26, 27"
+        },
+        {
+            "id": "2",
+            "title": "25% Discount on Water park Ticket booking",
+            "description": "25%Discount offer on Entry Fee Water Park & Slides Opened all the days. Fee : Per Head - Adult Rs. 250/- child (below 10) Rs.225/- Weekend /Holidays - Rs. 300 /- Outside Food not allowed Coupon code - WATERPARK * taxes as apply Package Net Charges - Entry with Veg Buffet Lunch 500/- weekend 550/- For more packages details Book online www.kishkindawaterpark.com https://kishkindawaterpark.com/book Time 10 AM to 5 PM Tel. 08533200700 / 8310256712 BOOKING Whatsapp 9449544168"
+        }
+    ],
+    "offers": [
+        {
+            "id": "1",
+            "title": "Summer Holidays Offer",
+            "description": "30% Discount offer on Rooms Booking - Valid June 2024",
+            "link": "https://hotels.eglobe-solutions.com/kishkindaheritage/booking/hotels/kishkinda-heritage-resort-hampi"
+        },
+        {
+            "id": "2",
+            "title": "40% summer Holidays Discount",
+            "description": "Book 2 Nights, Get 40% Summer Holidays Discount offer - Valid June 2024",
+            "link": "https://hotels.eglobe-solutions.com/kishkindaheritage/booking/hotels/kishkinda-heritage-resort-hampi"
+        },
+        {
+            "id": "3",
+            "title": "25% Monsoon Holidays Discount",
+            "description": "25% Discount offer on Rooms Booking - Valid Sept 2024",
+            "link": "https://hotels.eglobe-solutions.com/kishkindaheritage/booking/hotels/kishkinda-heritage-resort-hampi"
+        }
+    ]
+}
